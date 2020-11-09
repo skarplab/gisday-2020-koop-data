@@ -1,1 +1,31 @@
-{}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raleigh Little Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.66888999938965,
+          35.79136130367842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RMB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6430013179779,
+          35.77873265823494
+        ]
+      }
+    }
+  ]
+}
