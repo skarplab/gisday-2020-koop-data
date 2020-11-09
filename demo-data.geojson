@@ -26,6 +26,19 @@
           35.77873265823494
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marlborough House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.60474765300751,
+          35.798392787810485
+        ]
+      }
     }
   ]
 }
